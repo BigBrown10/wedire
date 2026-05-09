@@ -1,0 +1,6 @@
+whisperx
+fastapi
+uvicorn[standard]
+python-multipart
+torch
+torchaudio

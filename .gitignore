@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# wedire specific
+.wedire-cache/
+public/renders/
+public/temp/
+scratch/
