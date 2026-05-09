@@ -45,3 +45,7 @@ next-env.d.ts
 public/renders/
 public/temp/
 scratch/
+
+# python
+__pycache__/
+*.pyc
